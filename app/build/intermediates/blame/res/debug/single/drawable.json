@@ -1,0 +1,486 @@
+[
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\9f71376a26433ba67c5d060527e721ad\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\9f71376a26433ba67c5d060527e721ad\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\9f71376a26433ba67c5d060527e721ad\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qmui_tip_dialog_bg.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.3.aar\\cb1db8f830afb59a93dfbd28a286a436\\res\\drawable\\qmui_tip_dialog_bg.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shop8.png",
+        "source": "F:\\LOL\\Mytest1\\app\\src\\main\\res\\drawable\\shop8.png"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\9f71376a26433ba67c5d060527e721ad\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qmui_switch_thumb.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.3.aar\\cb1db8f830afb59a93dfbd28a286a436\\res\\drawable\\qmui_switch_thumb.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qmui_s_dialog_check_mark.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.3.aar\\cb1db8f830afb59a93dfbd28a286a436\\res\\drawable\\qmui_s_dialog_check_mark.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\6327357ec0a8e474cd752e31462a5370\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\red.png",
+        "source": "F:\\LOL\\Mytest1\\app\\src\\main\\res\\drawable\\red.png"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qmui_s_list_item_bg_with_border_top_inset_left.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.3.aar\\cb1db8f830afb59a93dfbd28a286a436\\res\\drawable\\qmui_s_list_item_bg_with_border_top_inset_left.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\9f71376a26433ba67c5d060527e721ad\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\addbtn.png",
+        "source": "F:\\LOL\\Mytest1\\app\\src\\main\\res\\drawable\\addbtn.png"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shop7.png",
+        "source": "F:\\LOL\\Mytest1\\app\\src\\main\\res\\drawable\\shop7.png"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qmui_edittext_bg_border_bottom.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.3.aar\\cb1db8f830afb59a93dfbd28a286a436\\res\\drawable\\qmui_edittext_bg_border_bottom.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\9f71376a26433ba67c5d060527e721ad\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\data.png",
+        "source": "F:\\LOL\\Mytest1\\app\\src\\main\\res\\drawable\\data.png"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backbtn.png",
+        "source": "F:\\LOL\\Mytest1\\app\\src\\main\\res\\drawable\\backbtn.png"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yellow.png",
+        "source": "F:\\LOL\\Mytest1\\app\\src\\main\\res\\drawable\\yellow.png"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\9f71376a26433ba67c5d060527e721ad\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\9f71376a26433ba67c5d060527e721ad\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\9f71376a26433ba67c5d060527e721ad\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\9f71376a26433ba67c5d060527e721ad\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\9f71376a26433ba67c5d060527e721ad\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\9f71376a26433ba67c5d060527e721ad\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\9f71376a26433ba67c5d060527e721ad\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\note.png",
+        "source": "F:\\LOL\\Mytest1\\app\\src\\main\\res\\drawable\\note.png"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qmui_dialog_action_btn_bg.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.3.aar\\cb1db8f830afb59a93dfbd28a286a436\\res\\drawable\\qmui_dialog_action_btn_bg.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add.png",
+        "source": "F:\\LOL\\Mytest1\\app\\src\\main\\res\\drawable\\add.png"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qmui_list_item_bg_with_border_bottom_inset_left.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.3.aar\\cb1db8f830afb59a93dfbd28a286a436\\res\\drawable\\qmui_list_item_bg_with_border_bottom_inset_left.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qmui_list_item_bg_with_border_top_inset.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.3.aar\\cb1db8f830afb59a93dfbd28a286a436\\res\\drawable\\qmui_list_item_bg_with_border_top_inset.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shop5.png",
+        "source": "F:\\LOL\\Mytest1\\app\\src\\main\\res\\drawable\\shop5.png"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\9f71376a26433ba67c5d060527e721ad\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shop4.png",
+        "source": "F:\\LOL\\Mytest1\\app\\src\\main\\res\\drawable\\shop4.png"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qmui_list_item_bg_with_border_top_inset_pressed.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.3.aar\\cb1db8f830afb59a93dfbd28a286a436\\res\\drawable\\qmui_list_item_bg_with_border_top_inset_pressed.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\9f71376a26433ba67c5d060527e721ad\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\9f71376a26433ba67c5d060527e721ad\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\9f71376a26433ba67c5d060527e721ad\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qmui_switch_track_checked.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.3.aar\\cb1db8f830afb59a93dfbd28a286a436\\res\\drawable\\qmui_switch_track_checked.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qmui_list_item_bg_with_border_bottom_inset_left_pressed.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.3.aar\\cb1db8f830afb59a93dfbd28a286a436\\res\\drawable\\qmui_list_item_bg_with_border_bottom_inset_left_pressed.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\9f71376a26433ba67c5d060527e721ad\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shop11.png",
+        "source": "F:\\LOL\\Mytest1\\app\\src\\main\\res\\drawable\\shop11.png"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\haski.png",
+        "source": "F:\\LOL\\Mytest1\\app\\src\\main\\res\\drawable\\haski.png"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qmui_list_item_bg_with_border_top_inset_left_pressed.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.3.aar\\cb1db8f830afb59a93dfbd28a286a436\\res\\drawable\\qmui_list_item_bg_with_border_top_inset_left_pressed.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qmui_s_switch_track.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.3.aar\\cb1db8f830afb59a93dfbd28a286a436\\res\\drawable\\qmui_s_switch_track.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\9f71376a26433ba67c5d060527e721ad\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qmui_s_list_item_bg_with_border_top.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.3.aar\\cb1db8f830afb59a93dfbd28a286a436\\res\\drawable\\qmui_s_list_item_bg_with_border_top.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qmui_s_checkbox.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.3.aar\\cb1db8f830afb59a93dfbd28a286a436\\res\\drawable\\qmui_s_checkbox.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search.png",
+        "source": "F:\\LOL\\Mytest1\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qmui_switch_thumb_checked.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.3.aar\\cb1db8f830afb59a93dfbd28a286a436\\res\\drawable\\qmui_switch_thumb_checked.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\9f71376a26433ba67c5d060527e721ad\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\doorchat.png",
+        "source": "F:\\LOL\\Mytest1\\app\\src\\main\\res\\drawable\\doorchat.png"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\6327357ec0a8e474cd752e31462a5370\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qmui_s_list_item_bg_with_border_none.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.3.aar\\cb1db8f830afb59a93dfbd28a286a436\\res\\drawable\\qmui_s_list_item_bg_with_border_none.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qmui_list_item_bg_with_border_top_inset_left.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.3.aar\\cb1db8f830afb59a93dfbd28a286a436\\res\\drawable\\qmui_list_item_bg_with_border_top_inset_left.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\9f71376a26433ba67c5d060527e721ad\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\6327357ec0a8e474cd752e31462a5370\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\9f71376a26433ba67c5d060527e721ad\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\9f71376a26433ba67c5d060527e721ad\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qmui_s_switch_thumb.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.3.aar\\cb1db8f830afb59a93dfbd28a286a436\\res\\drawable\\qmui_s_switch_thumb.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shop10.png",
+        "source": "F:\\LOL\\Mytest1\\app\\src\\main\\res\\drawable\\shop10.png"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\9f71376a26433ba67c5d060527e721ad\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qmui_list_item_bg_with_border_top_pressed.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.3.aar\\cb1db8f830afb59a93dfbd28a286a436\\res\\drawable\\qmui_list_item_bg_with_border_top_pressed.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\9f71376a26433ba67c5d060527e721ad\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\grey.png",
+        "source": "F:\\LOL\\Mytest1\\app\\src\\main\\res\\drawable\\grey.png"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qmui_list_item_bg_with_border_bottom.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.3.aar\\cb1db8f830afb59a93dfbd28a286a436\\res\\drawable\\qmui_list_item_bg_with_border_bottom.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\9f71376a26433ba67c5d060527e721ad\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\9f71376a26433ba67c5d060527e721ad\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\paper.png",
+        "source": "F:\\LOL\\Mytest1\\app\\src\\main\\res\\drawable\\paper.png"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qmui_list_item_bg_with_border_bottom_inset_pressed.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.3.aar\\cb1db8f830afb59a93dfbd28a286a436\\res\\drawable\\qmui_list_item_bg_with_border_bottom_inset_pressed.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\8b7e7102ab0c3b19b698a583b9580b34\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qmui_list_item_bg_with_double_border_pressed.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.3.aar\\cb1db8f830afb59a93dfbd28a286a436\\res\\drawable\\qmui_list_item_bg_with_double_border_pressed.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qmui_s_list_item_bg_with_border_double.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.3.aar\\cb1db8f830afb59a93dfbd28a286a436\\res\\drawable\\qmui_s_list_item_bg_with_border_double.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\8b7e7102ab0c3b19b698a583b9580b34\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\9f71376a26433ba67c5d060527e721ad\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\9f71376a26433ba67c5d060527e721ad\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\9f71376a26433ba67c5d060527e721ad\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qmui_s_list_item_bg_with_border_bottom.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.3.aar\\cb1db8f830afb59a93dfbd28a286a436\\res\\drawable\\qmui_s_list_item_bg_with_border_bottom.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\6327357ec0a8e474cd752e31462a5370\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qmui_dialog_action_button_bg_pressed.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.3.aar\\cb1db8f830afb59a93dfbd28a286a436\\res\\drawable\\qmui_dialog_action_button_bg_pressed.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qmui_list_item_bg_with_border_top.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.3.aar\\cb1db8f830afb59a93dfbd28a286a436\\res\\drawable\\qmui_list_item_bg_with_border_top.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qmui_tips_point.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.3.aar\\cb1db8f830afb59a93dfbd28a286a436\\res\\drawable\\qmui_tips_point.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qmui_divider_bottom_bitmap.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.3.aar\\cb1db8f830afb59a93dfbd28a286a436\\res\\drawable\\qmui_divider_bottom_bitmap.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shop2.png",
+        "source": "F:\\LOL\\Mytest1\\app\\src\\main\\res\\drawable\\shop2.png"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\8b7e7102ab0c3b19b698a583b9580b34\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\news.png",
+        "source": "F:\\LOL\\Mytest1\\app\\src\\main\\res\\drawable\\news.png"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\9f71376a26433ba67c5d060527e721ad\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qmui_s_icon_switch.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.3.aar\\cb1db8f830afb59a93dfbd28a286a436\\res\\drawable\\qmui_s_icon_switch.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\analytics.png",
+        "source": "F:\\LOL\\Mytest1\\app\\src\\main\\res\\drawable\\analytics.png"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\8b7e7102ab0c3b19b698a583b9580b34\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qmui_switch_track.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.3.aar\\cb1db8f830afb59a93dfbd28a286a436\\res\\drawable\\qmui_switch_track.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\family.png",
+        "source": "F:\\LOL\\Mytest1\\app\\src\\main\\res\\drawable\\family.png"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qmui_list_item_bg_with_border_bottom_inset.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.3.aar\\cb1db8f830afb59a93dfbd28a286a436\\res\\drawable\\qmui_list_item_bg_with_border_bottom_inset.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sleep.png",
+        "source": "F:\\LOL\\Mytest1\\app\\src\\main\\res\\drawable\\sleep.png"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qmui_list_item_bg_with_double_border.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.3.aar\\cb1db8f830afb59a93dfbd28a286a436\\res\\drawable\\qmui_list_item_bg_with_double_border.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qmui_sign_count_view_bg.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.3.aar\\cb1db8f830afb59a93dfbd28a286a436\\res\\drawable\\qmui_sign_count_view_bg.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\8b7e7102ab0c3b19b698a583b9580b34\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\heart.png",
+        "source": "F:\\LOL\\Mytest1\\app\\src\\main\\res\\drawable\\heart.png"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\healthy.png",
+        "source": "F:\\LOL\\Mytest1\\app\\src\\main\\res\\drawable\\healthy.png"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qmui_list_item_bg_with_border_bottom_pressed.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.3.aar\\cb1db8f830afb59a93dfbd28a286a436\\res\\drawable\\qmui_list_item_bg_with_border_bottom_pressed.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shop9.png",
+        "source": "F:\\LOL\\Mytest1\\app\\src\\main\\res\\drawable\\shop9.png"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\9f71376a26433ba67c5d060527e721ad\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\9f71376a26433ba67c5d060527e721ad\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qmui_s_list_item_bg_with_border_bottom_inset_left.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.3.aar\\cb1db8f830afb59a93dfbd28a286a436\\res\\drawable\\qmui_s_list_item_bg_with_border_bottom_inset_left.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textstyle.xml",
+        "source": "F:\\LOL\\Mytest1\\app\\src\\main\\res\\drawable\\textstyle.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qmui_s_list_item_bg_with_border_top_inset.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.3.aar\\cb1db8f830afb59a93dfbd28a286a436\\res\\drawable\\qmui_s_list_item_bg_with_border_top_inset.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification.png",
+        "source": "F:\\LOL\\Mytest1\\app\\src\\main\\res\\drawable\\notification.png"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shop6.png",
+        "source": "F:\\LOL\\Mytest1\\app\\src\\main\\res\\drawable\\shop6.png"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\9f71376a26433ba67c5d060527e721ad\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qmui_s_list_item_bg_with_border_bottom_inset.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.3.aar\\cb1db8f830afb59a93dfbd28a286a436\\res\\drawable\\qmui_s_list_item_bg_with_border_bottom_inset.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shop0.png",
+        "source": "F:\\LOL\\Mytest1\\app\\src\\main\\res\\drawable\\shop0.png"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qmui_dialog_bg.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.3.aar\\cb1db8f830afb59a93dfbd28a286a436\\res\\drawable\\qmui_dialog_bg.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shop3.png",
+        "source": "F:\\LOL\\Mytest1\\app\\src\\main\\res\\drawable\\shop3.png"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qmui_divider_top_bitmap.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.3.aar\\cb1db8f830afb59a93dfbd28a286a436\\res\\drawable\\qmui_divider_top_bitmap.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\imagestyle.xml",
+        "source": "F:\\LOL\\Mytest1\\app\\src\\main\\res\\drawable\\imagestyle.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\temperature.png",
+        "source": "F:\\LOL\\Mytest1\\app\\src\\main\\res\\drawable\\temperature.png"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\doc.png",
+        "source": "F:\\LOL\\Mytest1\\app\\src\\main\\res\\drawable\\doc.png"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qmui_popup_arrow_up.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.3.aar\\cb1db8f830afb59a93dfbd28a286a436\\res\\drawable\\qmui_popup_arrow_up.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\9f71376a26433ba67c5d060527e721ad\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\9f71376a26433ba67c5d060527e721ad\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\green.png",
+        "source": "F:\\LOL\\Mytest1\\app\\src\\main\\res\\drawable\\green.png"
+    }
+]

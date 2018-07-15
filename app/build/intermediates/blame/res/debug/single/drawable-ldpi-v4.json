@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\qmui_icon_topbar_back.png",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.3.aar\\cb1db8f830afb59a93dfbd28a286a436\\res\\drawable-ldpi-v4\\qmui_icon_topbar_back.png"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher_background.png",
+        "source": "F:\\LOL\\Mytest1\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    }
+]

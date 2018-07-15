@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\qmui_icon_topbar_back.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\qmui-1.1.3.aar\\cb1db8f830afb59a93dfbd28a286a436\\res\\drawable-anydpi-v21\\qmui_icon_topbar_back.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml",
+        "source": "F:\\LOL\\Mytest1\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\8b7e7102ab0c3b19b698a583b9580b34\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "F:\\LOL\\Mytest1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\严传威\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\8b7e7102ab0c3b19b698a583b9580b34\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    }
+]
